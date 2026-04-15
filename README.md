@@ -3,6 +3,7 @@
 La base de datos tiene como objetivo analizar la relación del estrés y del descanso  de los estudiantes, es decir, si su etrés afecta su vida diaria y actividades simples como es el descanso y activadades fisica. Esto nos dara una muestra de como estan los niveles de estrés del estudiante y que tanto influyen en sus horas de sueño y sus actividades diarias.
 # Encuesta
 La encuesta realizada se aplico a traves de un Forms de google que fue compartido por un enlace donde el objetivo principale eran las respuestas de los estudiantes universitarios.
+(ver encuesta) (https://docs.google.com/forms/d/e/1FAIpQLSd0EmP4b-M57lvfKts0j6dFmWtRTelrvz3NpcdEg8GO1SKdOA/viewform?usp=dialog)
 # Base de datos 
 La recoleccion de datos se basa en respuestas de estudiantes universitarios, donde el foco de atención se basa en variables como horas de sueño,horas de estudio, estrés academico, actividad fisica, apoyo emocional
 # Metodología 
